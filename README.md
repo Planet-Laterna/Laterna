@@ -47,8 +47,8 @@ WS281x
 <br>RGB and RBGW 5050 Strips
 
 <h3>Tested Sensors:</h3>
-Analoge Microphone: MAXX4466      [Tested with WLED Sound Reactive](https://github.com/atuline/WLED/wiki "WLED Sound Reactive")
-<br>Digital Microphone: INMP441   [Tested with WLED Sound Reactive](https://github.com/atuline/WLED/wiki "WLED Sound Reactive")
+Analoge Microphone: MAXX4466      (Tested with WLED Sound Reactive https://github.com/atuline/WLED/wiki) 
+<br>Digital Microphone: INMP441   (Tested with WLED Sound Reactive https://github.com/atuline/WLED/wiki)
 <br>Wemos Button Shield
 
 <br>Please take note that this Laterna Version can support 5V, 12V and 24V LED strip and Power Supplies => Input Voltage = Output Voltage</br>
