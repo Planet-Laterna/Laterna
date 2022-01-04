@@ -3,6 +3,14 @@
 The Laterna series of boards are mainly intended to be used with [WLED software ](https://github.com/Aircoookie/WLED "WLED's Homepage"), but you can also program the board using your own code or other library.
 <br>The board comes with or without soldered screw terminal and extra pins.
 
+<h3>Features</h3>
+Chip:   ESP32 WROOM 32E Wifi and Bluetooth
+<br>USB Type C connector for flashing and 5V power
+<br>2 channels for adressable LED strip with 3 or 4 pins (e.g. WS281x, WS2801, SK6812 etc.)
+<br>1 channel for RGB/RGBW 5050 LED  Strips
+<br>Works with 5V, 12V and 24V (Input = Output Voltage)
+<br>Several GPIOs and 3V outputs for adding additional sensors, buttons, microphone etc.
+
 ![Laterna](https://github.com/monoapp3/Laterna/blob/main/Photos/Laterna.png?raw=true)
 ![Laterna](https://github.com/monoapp3/Laterna/blob/main/Photos/Laterna_blue_terminals_case.png?raw=true)
 
@@ -37,6 +45,11 @@ WS281x
 <br>WS2801
 <br>SK6812
 <br>RGB and RBGW 5050 Strips
+
+<h3>Tested Sensors:</h3>
+Analoge Microphone: MAXX4466      [Tested with WLED Sound Reactive](https://github.com/atuline/WLED/wiki "WLED Sound Reactive")
+<br>Digital Microphone: INMP441   [Tested with WLED Sound Reactive](https://github.com/atuline/WLED/wiki "WLED Sound Reactive")
+<br>Wemos Button Shield
 
 <br>Please take note that this Laterna Version can support 5V, 12V and 24V LED strip and Power Supplies => Input Voltage = Output Voltage</br>
 
