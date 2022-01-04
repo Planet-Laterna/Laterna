@@ -1,6 +1,6 @@
 <h1>Laterna </h1>
 
-The Laterna series of boards are mainly intended to be used with [WLED software ](https://github.com/Aircoookie/WLED "WLED's Homepage"), but you can also program the board using your own code or other library.
+The Laterna series of boards are mainly intended to be used with [WLED software ](https://github.com/Aircoookie/WLED "WLED's Homepage"), but you can also program the board using your own code or other library via Arduino, ESPHome, Tasmota etc.
 <br>The board comes with or without soldered screw terminal and extra pins.
 
 <h3>Features</h3>
