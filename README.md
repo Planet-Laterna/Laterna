@@ -1,6 +1,6 @@
 <h1>Laterna </h1>
 
-The Laterna series of boards are mainly intended to be used with [WLED software ](https://github.com/Aircoookie/WLED "WLED's Homepage"), but you can also program the board using your own code or other library via Arduino, ESPHome, Tasmota etc.
+The Laterna series of boards are mainly intended to be used with [WLED software ](https://github.com/Aircoookie/WLED "WLED's Homepage"), but you can also program the board using your own code or other library via [Arduino](https://www.arduino.cc "Arduino Homepage"), [ESPHome](https://esphome.io "ESPHome Homepage"), [Tasmota](https://tasmota.github.io/docs "Tasmota Homepage") etc.
 <br>The board comes with or without soldered screw terminal and extra pins.
 
 <h3>Features</h3>
@@ -47,7 +47,7 @@ WS281x
 <br>RGB and RBGW 5050 Strips
 
 <h3>Tested Sensors:</h3>
-Analoge Microphone: MAXX4466      (Tested with WLED Sound Reactive https://github.com/atuline/WLED/wiki) 
+Analoge Microphone: MAXX4466      (Tested with WLED Sound Reactive https://github.com/atuline/WLED/wiki)
 <br>Digital Microphone: INMP441   (Tested with WLED Sound Reactive https://github.com/atuline/WLED/wiki)
 <br>Wemos Button Shield
 
