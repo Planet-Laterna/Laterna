@@ -32,7 +32,7 @@ For Flashing a precompiled Firmware we recommend [ESPHome Flasher](https://githu
 
 <h3>PINOUT Description</h3>
 
-**to be updated**
+![Laterna](https://github.com/monoapp3/Laterna/blob/main/Photos/Laterna_Pinout.png?raw=true)
 
 <h3>Circuit protection</h3>
 
