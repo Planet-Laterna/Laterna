@@ -6,6 +6,7 @@ The Laterna series of boards are mainly intended to be used with [WLED software 
 <h3>Features</h3>
 Chip:   ESP32 WROOM 32E Wifi and Bluetooth
 <br>USB Type C connector for flashing and 5V power
+<br>CP2102 USB to serial chip for easy flashing (https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers) 
 <br>2 channels for adressable LED strip with 3 or 4 pins (e.g. WS281x, WS2801, SK6812 etc.)
 <br>1 channel for RGB/RGBW 5050 LED  Strips
 <br>Works with 5V, 12V and 24V (Input = Output Voltage)
