@@ -1,0 +1,35 @@
+esphome:
+  name: laterna
+
+esp32:
+  board: esp32dev
+  framework:
+    type: arduino
+
+# Enable logging
+logger:
+
+# Enable Home Assistant API
+api:
+
+ota:
+  password: "739cd763a30ea8e1dfecc7d5f9f8b20b"
+
+wifi:
+  ssid: "Your Wifi SSID"
+  password: "Your Wifi Password"
+
+  # Enable fallback hotspot (captive portal) in case wifi connection fails
+  ap:
+    ssid: "Laterna Fallback Hotspot"
+    password: "Your secrect key"
+
+captive_portal:
+
+light:
+  - platform: fastled_clockless
+    chipset: WS2812B
+    pin: GPIO21
+    num_leds: 60
+    rgb_order: BRG
+    name: "Laterna WS2812B Light"
