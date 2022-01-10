@@ -1,5 +1,9 @@
+substitutions:
+  name: "laterna"
+
 esphome:
-  name: laterna
+  name: "${name}"
+  name_add_mac_suffix: true
 
 esp32:
   board: esp32dev
@@ -13,16 +17,19 @@ logger:
 api:
 
 ota:
-  password: "739cd763a30ea8e1dfecc7d5f9f8b20b"
+  password: !secret ota_password
+
+dashboard_import:
+  package_import_url: github://monoapp3/Laterna/edit/main/ESPHome Config/laterna.yaml
 
 wifi:
-  ssid: "Your Wifi SSID"
-  password: "Your Wifi Password"
+  ssid: !secret wifi_ssid
+  password: !secret wifi_pass
 
   # Enable fallback hotspot (captive portal) in case wifi connection fails
   ap:
     ssid: "Laterna Fallback Hotspot"
-    password: "Your secrect key"
+    password: !secret fallback_wifi_password
 
 captive_portal:
 
