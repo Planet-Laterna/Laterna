@@ -26,6 +26,8 @@ The board has an integrated CP2102 USB to UART bridge so you can flash it withou
 
 For Flashing a precompiled Firmware we recommend [ESPHome Flasher](https://github.com/esphome/esphome-flasher/releases "ESPHome Flasher Releases")
 
+We also have a ESPHome template available which can be easily flashed via [this website](https://planet-laterna.github.io/Laterna-ESPHome-template)
+
 <h5>Required steps for manual flashing</h5>
 
 * First you need to put the Board in flash mode
