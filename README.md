@@ -14,8 +14,7 @@ Chip:   ESP32 WROOM 32E Wifi and Bluetooth
 <br>Works with 5V, 12V and 24V (Input = Output Voltage)
 <br>Several GPIOs and 3V outputs for adding additional sensors, buttons, microphone etc.
 
-![Laterna](https://github.com/monoapp3/Laterna/blob/main/Photos/Laterna.png?raw=true)
-![Laterna](https://github.com/monoapp3/Laterna/blob/main/Photos/Laterna_blue_terminals_case.png?raw=true)
+<img src="/Photos/Laterna.png" width="50%"><img src="/Photos/Laterna_blue_terminals_case.png" width="50%">
 
 <h3>Installation</h3>
 
@@ -37,7 +36,7 @@ We also have a ESPHome template available which can be easily flashed via [this 
 
 <h3>PINOUT Description</h3>
 
-![Laterna](https://github.com/monoapp3/Laterna/blob/main/Photos/Laterna_Pinout.png?raw=true)
+<img src="/Photos/Laterna_Pinout.png" width="50%">
 
 <h3>Circuit protection</h3>
 
@@ -79,8 +78,6 @@ Software used in this guide is open source and licensed under the **MIT License*
 
 * Can I use this board with my own code?
   - yes, you can write your own code and programm this board. Refer to programming steps section
-* How many LEDs can I control with this board?
-  - we recomend to use xx LEDs if board powered by USB and yy LEDs if powered with external power supply (**Work in Progress**)
 
 <h3>Acknowledgment</h3>
 
