@@ -61,6 +61,10 @@ Analoge Microphone: MAXX4466      (Tested with WLED Sound Reactive https://githu
 
 [![Alt text](https://img.youtube.com/vi/g_3g_RMFQ8w/0.jpg)](https://www.youtube.com/watch?v=g_3g_RMFQ8w)
 
+**Sound Reactive Demo - Running WLED Sound Reactive**
+
+[![Alt text](https://img.youtube.com/vi/JcAS_HExWMc/0.jpg)](https://www.youtube.com/watch?v=JcAS_HExWMc)
+
 
 * plug and play example - USB power
 * plug and play example - External power supply
