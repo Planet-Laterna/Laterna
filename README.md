@@ -44,6 +44,7 @@ We also have a ESPHome template available which can be easily flashed via [this 
 Our boards include 2 resetable fuses to limit current on the board.
 <br>If powered by USB C port -> 3A
 <br>If powered by external power supply -> 12A
+<br>Please do not power the board via USB and the external Power Terminals at the same time.
 
 <h3>Tested LED Strips:</h3>
 WS281x
